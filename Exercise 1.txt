@@ -1,0 +1,5 @@
+Exercise 1:- Write an algorithm for accepting two numbers, divide the first number by second and display their quotient.
+
+Step 1: Take input of two numbers.
+Step 2: Divide the first number by second number.
+Step 3: Display the quotient. 

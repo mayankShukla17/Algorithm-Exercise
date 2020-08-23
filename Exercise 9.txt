@@ -1,0 +1,8 @@
+Exercise 9:- Write an algorithm for accepting three numbers and display the highest number among the three numbers.
+
+Step 1: Take input of three numbers.
+Step 2: Check if the first number is greater than second and third number.
+Step 3: Display first number.
+Step 4: Else check second number is greater than first and third number.
+Step 5: Display second number.
+Step 6: Else display third number.

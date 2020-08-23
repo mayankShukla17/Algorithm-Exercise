@@ -1,0 +1,6 @@
+Exercise 3:- Write an algorithm for accepting five numbers and display the sum and average of the numbers.
+
+Step 1: Take input of five numbers.
+Step 2: Add all the five numbers to calculate the sum.
+Step 3: Now divide the sum by 5 which is strored in Step 2 to calculate the average of the numbers.
+Step 4: Display the Sum of numbers from Step 2 and Average of numbers from Step 3. 

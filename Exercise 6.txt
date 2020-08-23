@@ -1,0 +1,8 @@
+Exercise 6:- Write an algorithm for calculating the area of rectangle and square separately.
+
+Step 1: Take input of length and breadth of a rectangle.
+Step 2: Multiply length and breadth to calculate the area of rectangle.
+Step 3: Display the area of rectangle.
+Step 4: Take the input of side of square.
+Step 5: Multiply side and side to calculate the Area of square.
+Step 6: Display the area of square. 

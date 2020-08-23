@@ -1,0 +1,6 @@
+Exercise 4:- Write an algorithm for accepting a number and display the whether it is odd or even.
+
+Step 1: Take input of a number.
+Step 2: Check if the number is divisible by 2 or not.
+Step 3: If the number is divisible by 2 then Display Even.
+Step 4: Else Display Odd. 

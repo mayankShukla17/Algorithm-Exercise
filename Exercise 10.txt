@@ -1,0 +1,12 @@
+Exercise 10:- Write an algorithm for accepting the age of user and if the age is valid, check whether the user is a kid, a teenager, an adult or a senior.
+
+Step 1: Take input of age.
+Step 2: Check if the input age is valid which must be less than or equals to hundred.
+Step 3: Check if the validated age is below thirteen.
+Step 4: Then Display user is kid. 
+Step 5: Check if the validated age is from thirteen and less than or equals to nineteen.
+Step 6: Then Display user is a teenager.
+Step 7: Check if the validated age is from twenty and less than or equals to sixty.
+Step 8: Then Display user is adult.
+Step 9: Check if the validated age is above sixty.
+Step 10: Then Display user is senior.

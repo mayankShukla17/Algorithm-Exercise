@@ -1,0 +1,5 @@
+Exercise 7:- Write an algorithm for accepting the distance and speed values for a particular journey, calculate the time taken for the journey and display the same.
+
+Step 1: Take input of distance and speed of journey.
+Step 2: Divide the distance by speed to calculate the time taken for journey. 
+Step 3: Display the time taken for the journey which is calculated in Step 2.
